@@ -36,8 +36,8 @@ We are using MNIST Dataset for this experiment. The MNIST dataset is a collectio
 
 ## PROGRAM
 ```python
-program developed by : Kaushika A
-reg no : 212221230048
+program developed by : Pavan Kishore
+reg no : 212221230076
 ```
 ### Import necessary libraries:
 ```python
